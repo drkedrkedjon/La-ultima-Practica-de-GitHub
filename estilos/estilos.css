@@ -9,3 +9,18 @@ body {
   height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+  border: 1px solid aquamarine;
+  border-radius: 1em;
+  padding: 2em 5em;
+  background-color: black;
+  box-shadow: 0 0 50px 10px ;
+}
+
+.container h1 {
+  font-size: 4em;
+}
+.container p {
+  font-size: 2em;
+}
