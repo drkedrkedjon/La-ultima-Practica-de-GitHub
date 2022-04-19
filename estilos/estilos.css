@@ -24,4 +24,17 @@ body {
 }
 .container p {
   font-size: 2em;
+  color: ;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: red;
+}
+.nav a {
+  color: red;
 }
